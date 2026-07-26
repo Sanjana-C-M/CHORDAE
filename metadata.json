@@ -1,0 +1,6 @@
+{
+  "name": "Chordae - Heart Health Companion",
+  "description": "An AI-powered longitudinal heart-health companion featuring an interactive cursor grid, solid heart particle aura, ECG heartbeat canvas, genomic risk weighting, gender-aware symptom journal, predictive lifestyle simulator, and post-event recovery companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
